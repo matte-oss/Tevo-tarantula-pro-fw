@@ -7,3 +7,7 @@ BL TOUCH WIRING DIAGRAMS
 ![touch wiring diagram-](https://github.com/matte-oss/Tevo-tarantula-pro-fw/assets/125076223/9be87ead-b43d-4425-b596-b5c95657fae9)
 
 ![touch wiring diagram](https://github.com/matte-oss/Tevo-tarantula-pro-fw/assets/125076223/526d9d7a-1bec-4677-8607-821b231a5107)
+
+
+
+I AM NOT RESPONSIBLE FOR ANY DAMAGES
